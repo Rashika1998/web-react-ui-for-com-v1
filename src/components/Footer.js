@@ -20,7 +20,7 @@ function Footer() {
                     </form>
                 </div>
             </section>
-            <div className="footer-link">
+            <div className="footer-links">
                 <div className="footer-link-wrapper">
                     <div className="footer-links-items">
                         <h2>About us</h2>
